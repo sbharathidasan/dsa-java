@@ -1,7 +1,7 @@
 public class Stack {
+int tos=-1;
 int[] arr;
 Stack(int a){
-    int tos=-1;
     arr=new int[a];
 }
 public void push(int a){

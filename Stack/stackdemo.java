@@ -14,7 +14,7 @@ class stackdemo{
                 s1.push(sc.nextInt());
             }
             else if (num==2){
-                s1.pop();
+                System.out.println(s1.pop());
             }
             else{
                 break;
