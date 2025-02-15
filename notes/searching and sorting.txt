@@ -1,0 +1,5 @@
+binary sort
+recursion
+bubble sort
+merge sort 
+quick sort
